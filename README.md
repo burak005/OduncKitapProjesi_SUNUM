@@ -2,7 +2,7 @@
 
 
 * PROJE HAKKINDA TEKNİK BİLGİLER
-* 
+
 . Proje AspNet MVC yapısıyla yazılmıştır.
 
 . Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır.
